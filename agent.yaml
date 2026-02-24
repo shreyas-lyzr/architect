@@ -1,8 +1,8 @@
 spec_version: "0.1.0"
-name: gitagent-helper
+name: architect
 version: 1.0.0
-description: Your AI assistant for building, running, and managing git-native AI agents with gitagent
-author: gitagent
+description: Architect by Lyzr — a gitagent helper for building, running, and managing git-native AI agents
+author: lyzr
 license: MIT
 model:
   preferred: claude-sonnet-4-5-20250929
