@@ -1,4 +1,4 @@
-# gitagent-helper
+# Architect
 
 The official gitagent assistant — an AI agent that helps you build, run, and manage AI agents with gitagent.
 
