@@ -6,10 +6,10 @@ The official gitagent assistant — an AI agent that helps you build, run, and m
 
 ```bash
 # Run directly from GitHub
-gitagent run -r https://github.com/anthropics/gitagent-helper
+gitagent run -r https://github.com/shreyaskapale/architect
 
 # Or with a prompt
-gitagent run -r https://github.com/anthropics/gitagent-helper -p "How do I create my first agent?"
+gitagent run -r https://github.com/shreyaskapale/architect -p "How do I create my first agent?"
 ```
 
 ## What It Can Do
