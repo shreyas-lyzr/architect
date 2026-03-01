@@ -1,5 +1,0 @@
-documents:
-  - path: references.md
-    always_load: false
-  - path: formulas.md
-    always_load: true
